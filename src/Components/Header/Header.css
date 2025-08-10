@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #212529;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+}
+
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+}
+
+.searchBtn{
+    background-color: red;
+    color: white;
+}
