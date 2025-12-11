@@ -62,6 +62,11 @@ src/
 │── main.jsx
 │── style.css
 
+Screenshots:
 
-<img width="1920" height="1020" alt="Screenshot 2025-12-11 113105" src="https://github.com/user-attachments/assets/15689587-e271-438d-987c-57e35270d54d" />
+HomePage
 <img width="1920" height="1080" alt="Screenshot 2025-12-11 112956" src="https://github.com/user-attachments/assets/f847793d-89f1-4354-9b53-4a709d127d2d" />
+
+Product Details
+<img width="1920" height="1020" alt="Screenshot 2025-12-11 113105" src="https://github.com/user-attachments/assets/15689587-e271-438d-987c-57e35270d54d" />
+
